@@ -4,3 +4,4 @@
 | --- | --- | --- | --- |
 | Bullet For My Valentine | Tears Dont Fall | [YouTube](https://www.youtube.com/watch?v=3xcoQlTI49o) | [UG](https://tabs.ultimate-guitar.com/tab/bullet-for-my-valentine/tears-dont-fall-official-1936173)
 | Bullet For My Valentine | Waking The Demon | [YouTube](https://www.youtube.com/watch?v=NR-zYto3rxk) | [UG](https://tabs.ultimate-guitar.com/tab/bullet-for-my-valentine/waking-the-demon-official-1936265)
+| Bullet For My Valentine | Hears Burst into Fire | https://www.youtube.com/watch?v=CGK0lYJ4B9w | [UG](https://tabs.ultimate-guitar.com/tab/bullet-for-my-valentine/hearts-burst-into-fire-official-1974173)
