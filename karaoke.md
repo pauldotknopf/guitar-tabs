@@ -1,6 +1,13 @@
 
 # Karaoke
 
-| Band | Song | Backing Track | Tabs
-| --- | --- | --- | --- |
-| Franz Ferdinand | Take Me Out | [YouTube](https://www.youtube.com/watch?v=0XjAZtWVxGs) | [UG](https://tabs.ultimate-guitar.com/tab/franz-ferdinand/take-me-out-official-1911499)
+## Powfu - death bed (coffee for your head)
+
+Song: https://www.youtube.com/watch?v=jJPMnTXl63E
+
+Could be played with:
+
+* Drum backing track (or beat box)
+* Backing vocals (or piano)
+* Lead vocals (rapping)
+* Guitar
