@@ -12,3 +12,7 @@
 # Resources
 
 * [Tuning database](https://gtdb.org/)
+
+<audio controls="" class="tab">
+<source src="https://github.com/pauldotknopf/guitar-tabs/blob/master/audio/makedamnsure.mp3?raw=true">
+</audio>
