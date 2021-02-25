@@ -8,3 +8,7 @@
 # Other
 
 * [Karaoke](./karaoke.md)
+
+# Resources
+
+* [Tuning database](https://gtdb.org/)
