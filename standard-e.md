@@ -1,6 +1,6 @@
 # Standard-E
 
-| Band | Song | Backing Track | Tabs
+| Band | Song | Backing Track | Tabs | Notes
 | --- | --- | --- | --- |
 | Franz Ferdinand | Take Me Out | [YouTube](https://www.youtube.com/watch?v=0XjAZtWVxGs) | [UG](https://tabs.ultimate-guitar.com/tab/franz-ferdinand/take-me-out-official-1911499)
 | Pink Floyd | Another brick in the wall Pt 1 | [YouTube]() | [UG]()
@@ -25,6 +25,6 @@
 | Pink Floyd | Time | [YouTube]() | [UG]()
 | Pink Floyd | Us and them | [YouTube]() | [UG]()
 | Pink Floyd | Any color you like | [YouTube]() | [UG]()
-| Pink Floyd | Brain damage/Eclipse | [YouTube]() | [UG]()
+| Pink Floyd | Brain damage/Eclipse | [YouTube]() | [UG]() | Maybe I can record all the tracks, [here](https://www.youtube.com/watch?v=y7dGe6isK1s) is drums only.
 | Pink Floyd | Wish you were here | [YouTube]() | [UG]()
 | Pink Floyd | Young lust | [YouTube]() | [UG]()
