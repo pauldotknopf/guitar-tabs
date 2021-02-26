@@ -16,7 +16,7 @@
 | Pink Floyd | In the flesh | [YouTube]() | [UG](https://tabs.ultimate-guitar.com/tab/pink-floyd/in-the-flesh-official-2114083)
 | Pink Floyd | Marooned | [YouTube]() | [UG](https://tabs.ultimate-guitar.com/tab/pink-floyd/marooned-official-2856947)
 | Pink Floyd | Money | [YouTube](https://www.youtube.com/watch?v=cpbbuaIA3Ds) | [UG](https://tabs.ultimate-guitar.com/tab/pink-floyd/money-official-2449673)
-| Pink Floyd | Mother | [YouTube]() | [UG](https://tabs.ultimate-guitar.com/tab/pink-floyd/mother-official-2068765)
+| Pink Floyd | Mother | [YouTube](https://www.youtube.com/watch?v=2oUqgfroTa8) | [UG](https://tabs.ultimate-guitar.com/tab/pink-floyd/mother-official-2068765)
 | Pink Floyd | On the turning away | [YouTube](https://www.youtube.com/watch?v=y8wxvX6qM20) | [UG](https://tabs.ultimate-guitar.com/tab/pink-floyd/on-the-turning-away-official-2814824)
 | Pink Floyd | Run like hell | [YouTube](https://www.youtube.com/watch?v=5yW7s0IUwv4) | [UG](https://tabs.ultimate-guitar.com/tab/pink-floyd/run-like-hell-official-2114813)
 | Pink Floyd | Shine on you crazy diamond | [YouTube](https://www.youtube.com/watch?v=KpY2fC04Z70) | NA
