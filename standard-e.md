@@ -25,6 +25,6 @@
 | Pink Floyd | Time | [YouTube]() | [UG]()
 | Pink Floyd | Us and them | [YouTube]() | [UG]()
 | Pink Floyd | Any color you like | [YouTube]() | [UG]()
-| Pink Floyd | Brain damage/Eclipse | [YouTube]() | [UG]() | Maybe I can record all the tracks, [here](https://www.youtube.com/watch?v=y7dGe6isK1s) is drums only.
+| Pink Floyd | Brain damage/Eclipse | [YouTube](https://www.youtube.com/watch?v=mRH-URpgZrM) | [UG](https://tabs.ultimate-guitar.com/tab/pink-floyd/brain-damage-official-2157747) | Maybe I can record all the tracks, [here](https://www.youtube.com/watch?v=y7dGe6isK1s) is drums only.
 | Pink Floyd | Wish you were here | [YouTube]() | [UG]()
 | Pink Floyd | Young lust | [YouTube]() | [UG]()
