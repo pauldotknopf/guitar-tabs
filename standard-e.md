@@ -3,9 +3,9 @@
 | Band | Song | Backing Track | Tabs | Notes
 | --- | --- | --- | --- | --- |
 | Franz Ferdinand | Take Me Out | [YouTube](https://www.youtube.com/watch?v=0XjAZtWVxGs) | [UG](https://tabs.ultimate-guitar.com/tab/franz-ferdinand/take-me-out-official-1911499)
-| Pink Floyd | Another brick in the wall Pt 1 | [YouTube]() | [UG]()
-| Pink Floyd | Another brick in the wall Pt 2 | [YouTube]() | [UG]()
-| Pink Floyd | The happiest days of our lives | [YouTube]() | [UG]()
+| Pink Floyd | Another brick in the wall Pt 1 | [YouTube]() | [UG](https://tabs.ultimate-guitar.com/tab/pink-floyd/another-brick-in-the-wall-part-1-official-2257241)
+| Pink Floyd | Another brick in the wall Pt 2 | [YouTube]() | [UG](https://tabs.ultimate-guitar.com/tab/pink-floyd/another-brick-in-the-wall-part-2-official-1963511)
+| Pink Floyd | The happiest days of our lives | [YouTube]() | [UG](https://tabs.ultimate-guitar.com/tab/pink-floyd/the-happiest-days-of-our-lives-official-2110951)
 | Pink Floyd | Breathe | [YouTube]() | [UG]()
 | Pink Floyd | Comfortably numb | [YouTube](https://www.youtube.com/watch?v=wec4h8koJ1Q) | [UG](https://tabs.ultimate-guitar.com/tab/pink-floyd/comfortably-numb-official-1939571)
 | Pink Floyd | Echoes | [YouTube]() | [UG]()
