@@ -15,7 +15,7 @@
 | Pink Floyd | High hopes | [YouTube]() | [UG](https://tabs.ultimate-guitar.com/tab/kodaline/high-hopes-official-2406047)
 | Pink Floyd | In the flesh | [YouTube]() | [UG](https://tabs.ultimate-guitar.com/tab/pink-floyd/in-the-flesh-official-2114083)
 | Pink Floyd | Marooned | [YouTube]() | [UG](https://tabs.ultimate-guitar.com/tab/pink-floyd/marooned-official-2856947)
-| Pink Floyd | Money | [YouTube]() | [UG](https://tabs.ultimate-guitar.com/tab/pink-floyd/money-official-2449673)
+| Pink Floyd | Money | [YouTube](https://www.youtube.com/watch?v=cpbbuaIA3Ds) | [UG](https://tabs.ultimate-guitar.com/tab/pink-floyd/money-official-2449673)
 | Pink Floyd | Mother | [YouTube]() | [UG](https://tabs.ultimate-guitar.com/tab/pink-floyd/mother-official-2068765)
 | Pink Floyd | On the turning away | [YouTube]() | [UG](https://tabs.ultimate-guitar.com/tab/pink-floyd/on-the-turning-away-official-2814824)
 | Pink Floyd | Run like hell | [YouTube]() | [UG](https://tabs.ultimate-guitar.com/tab/pink-floyd/run-like-hell-official-2114813)
