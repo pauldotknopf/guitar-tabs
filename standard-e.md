@@ -20,7 +20,7 @@
 | Pink Floyd | On the turning away | [YouTube]() | [UG](https://tabs.ultimate-guitar.com/tab/pink-floyd/on-the-turning-away-official-2814824)
 | Pink Floyd | Run like hell | [YouTube]() | [UG](https://tabs.ultimate-guitar.com/tab/pink-floyd/run-like-hell-official-2114813)
 | Pink Floyd | Shine on you crazy diamond | [YouTube]() | NA
-| Pink Floyd | The final cut | [YouTube]() | [UG](https://tabs.ultimate-guitar.com/tab/pink-floyd/the-final-cut-guitar-pro-1940163)
+| Pink Floyd | The final cut | [YouTube](https://www.youtube.com/watch?v=gFDlTx33LCM) | [UG](https://tabs.ultimate-guitar.com/tab/pink-floyd/the-final-cut-guitar-pro-1940163)
 | Pink Floyd | The great gig in the sky | [YouTube](https://www.youtube.com/watch?v=T13se_2A7c8) | [UG](https://tabs.ultimate-guitar.com/tab/pink-floyd/the-great-gig-in-the-sky-official-2547183)
 | Pink Floyd | Time | [YouTube](https://www.youtube.com/watch?v=JwYX52BP2Sk) | [UG](https://tabs.ultimate-guitar.com/tab/pink-floyd/time-official-2154979)
 | Pink Floyd | Us and them | [YouTube](https://www.youtube.com/watch?v=nDbeqj-1XOo) | [UG](https://tabs.ultimate-guitar.com/tab/pink-floyd/us-and-them-official-2209923)
