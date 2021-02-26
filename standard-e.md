@@ -27,4 +27,4 @@
 | Pink Floyd | Any color you like | [YouTube]() | [UG](https://tabs.ultimate-guitar.com/tab/pink-floyd/any-colour-you-like-official-3171350) | Maybe record myself? Drums [here](https://www.youtube.com/watch?v=RtpSydgLDwk).
 | Pink Floyd | Brain damage/Eclipse | [YouTube](https://www.youtube.com/watch?v=mRH-URpgZrM) | [UG](https://tabs.ultimate-guitar.com/tab/pink-floyd/brain-damage-official-2157747) | Maybe I can record all the tracks, [here](https://www.youtube.com/watch?v=y7dGe6isK1s) is drums only.
 | Pink Floyd | Wish you were here | [YouTube]() | [UG](https://tabs.ultimate-guitar.com/tab/pink-floyd/wish-you-were-here-official-2412207)
-| Pink Floyd | Young lust | [YouTube]() | [UG](https://tabs.ultimate-guitar.com/tab/pink-floyd/young-lust-official-2303299)
+| Pink Floyd | Young lust | [YouTube](https://www.youtube.com/watch?v=YiVPC8QHsQM) | [UG](https://tabs.ultimate-guitar.com/tab/pink-floyd/young-lust-official-2303299)
