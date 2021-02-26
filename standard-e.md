@@ -22,7 +22,7 @@
 | Pink Floyd | Shine on you crazy diamond | [YouTube]() | NA
 | Pink Floyd | The final cut | [YouTube]() | [UG](https://tabs.ultimate-guitar.com/tab/pink-floyd/the-final-cut-guitar-pro-1940163)
 | Pink Floyd | The great gig in the sky | [YouTube]() | [UG](https://tabs.ultimate-guitar.com/tab/pink-floyd/the-great-gig-in-the-sky-official-2547183)
-| Pink Floyd | Time | [YouTube]() | [UG](https://tabs.ultimate-guitar.com/tab/pink-floyd/time-official-2154979)
+| Pink Floyd | Time | [YouTube](https://www.youtube.com/watch?v=JwYX52BP2Sk) | [UG](https://tabs.ultimate-guitar.com/tab/pink-floyd/time-official-2154979)
 | Pink Floyd | Us and them | [YouTube](https://www.youtube.com/watch?v=nDbeqj-1XOo) | [UG](https://tabs.ultimate-guitar.com/tab/pink-floyd/us-and-them-official-2209923)
 | Pink Floyd | Any colour you like | [YouTube](https://www.youtube.com/watch?v=bK7HJvmgFnM) | [UG](https://tabs.ultimate-guitar.com/tab/pink-floyd/any-colour-you-like-official-3171350) | Maybe record myself? Drums [here](https://www.youtube.com/watch?v=RtpSydgLDwk).
 | Pink Floyd | Brain damage/Eclipse | [YouTube](https://www.youtube.com/watch?v=mRH-URpgZrM) | [UG](https://tabs.ultimate-guitar.com/tab/pink-floyd/brain-damage-official-2157747) | Maybe I can record all the tracks, [here](https://www.youtube.com/watch?v=y7dGe6isK1s) is drums only.
