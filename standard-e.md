@@ -14,7 +14,7 @@
 | Pink Floyd | Hey you | [YouTube]() | [UG](https://tabs.ultimate-guitar.com/tab/pink-floyd/hey-you-official-2075819)
 | Pink Floyd | High hopes | [YouTube]() | [UG](https://tabs.ultimate-guitar.com/tab/kodaline/high-hopes-official-2406047)
 | Pink Floyd | In the flesh | [YouTube]() | [UG](https://tabs.ultimate-guitar.com/tab/pink-floyd/in-the-flesh-official-2114083)
-| Pink Floyd | Marooned | [YouTube]() | [UG](https://tabs.ultimate-guitar.com/tab/pink-floyd/marooned-official-2856947)
+| Pink Floyd | Marooned | [YouTube](https://www.youtube.com/watch?v=-Rzi0Bkj7J8) | [UG](https://tabs.ultimate-guitar.com/tab/pink-floyd/marooned-official-2856947)
 | Pink Floyd | Money | [YouTube](https://www.youtube.com/watch?v=cpbbuaIA3Ds) | [UG](https://tabs.ultimate-guitar.com/tab/pink-floyd/money-official-2449673)
 | Pink Floyd | Mother | [YouTube](https://www.youtube.com/watch?v=2oUqgfroTa8) | [UG](https://tabs.ultimate-guitar.com/tab/pink-floyd/mother-official-2068765)
 | Pink Floyd | On the turning away | [YouTube](https://www.youtube.com/watch?v=y8wxvX6qM20) | [UG](https://tabs.ultimate-guitar.com/tab/pink-floyd/on-the-turning-away-official-2814824)
