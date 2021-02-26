@@ -3,28 +3,28 @@
 | Band | Song | Backing Track | Tabs
 | --- | --- | --- | --- |
 | Franz Ferdinand | Take Me Out | [YouTube](https://www.youtube.com/watch?v=0XjAZtWVxGs) | [UG](https://tabs.ultimate-guitar.com/tab/franz-ferdinand/take-me-out-official-1911499)
-| Pink Floyd | Another brick in the wall Pt 1
-| Pink Floyd | Another brick in the wall Pt 2
-| Pink Floyd | The happiest days of our lives
-| Pink Floyd | Breathe
+| Pink Floyd | Another brick in the wall Pt 1 | [YouTube]() | [UG]()
+| Pink Floyd | Another brick in the wall Pt 2 | [YouTube]() | [UG]()
+| Pink Floyd | The happiest days of our lives | [YouTube]() | [UG]()
+| Pink Floyd | Breathe | [YouTube]() | [UG]()
 | Pink Floyd | Comfortably numb | [YouTube](https://www.youtube.com/watch?v=wec4h8koJ1Q) | [UG](https://tabs.ultimate-guitar.com/tab/pink-floyd/comfortably-numb-official-1939571)
-| Pink Floyd | Echoes
-| Pink Floyd | Goodbye blue sky
-| Pink Floyd | Have a cigar
-| Pink Floyd | Hey you
-| Pink Floyd | High hopes
-| Pink Floyd | In the flesh
-| Pink Floyd | Marooned
-| Pink Floyd | Money
-| Pink Floyd | Mother
-| Pink Floyd | On the turning away
-| Pink Floyd | Run like hell
-| Pink Floyd | Shine on you crazy diamond
-| Pink Floyd | The final cut
-| Pink Floyd | The great gig in the sky
-| Pink Floyd | Time
-| Pink Floyd | Us and them
-| Pink Floyd | Any color you like
-| Pink Floyd | Brain damage/Eclipse
-| Pink Floyd | Wish you were here
-| Pink Floyd | Young lust
+| Pink Floyd | Echoes | [YouTube]() | [UG]()
+| Pink Floyd | Goodbye blue sky | [YouTube]() | [UG]()
+| Pink Floyd | Have a cigar | [YouTube]() | [UG]()
+| Pink Floyd | Hey you | [YouTube]() | [UG]()
+| Pink Floyd | High hopes | [YouTube]() | [UG]()
+| Pink Floyd | In the flesh | [YouTube]() | [UG]()
+| Pink Floyd | Marooned | [YouTube]() | [UG]()
+| Pink Floyd | Money | [YouTube]() | [UG]()
+| Pink Floyd | Mother | [YouTube]() | [UG]()
+| Pink Floyd | On the turning away | [YouTube]() | [UG]()
+| Pink Floyd | Run like hell | [YouTube]() | [UG]()
+| Pink Floyd | Shine on you crazy diamond | [YouTube]() | [UG]()
+| Pink Floyd | The final cut | [YouTube]() | [UG]()
+| Pink Floyd | The great gig in the sky | [YouTube]() | [UG]()
+| Pink Floyd | Time | [YouTube]() | [UG]()
+| Pink Floyd | Us and them | [YouTube]() | [UG]()
+| Pink Floyd | Any color you like | [YouTube]() | [UG]()
+| Pink Floyd | Brain damage/Eclipse | [YouTube]() | [UG]()
+| Pink Floyd | Wish you were here | [YouTube]() | [UG]()
+| Pink Floyd | Young lust | [YouTube]() | [UG]()
