@@ -1,7 +1,7 @@
 # Standard-E
 
 | Band | Song | Backing Track | Tabs | Notes
-| --- | --- | --- | --- |
+| --- | --- | --- | --- | --- |
 | Franz Ferdinand | Take Me Out | [YouTube](https://www.youtube.com/watch?v=0XjAZtWVxGs) | [UG](https://tabs.ultimate-guitar.com/tab/franz-ferdinand/take-me-out-official-1911499)
 | Pink Floyd | Another brick in the wall Pt 1 | [YouTube]() | [UG]()
 | Pink Floyd | Another brick in the wall Pt 2 | [YouTube]() | [UG]()
