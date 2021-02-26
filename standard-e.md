@@ -3,6 +3,7 @@
 | Band | Song | Album | Backing Track | Tabs | Notes
 | --- | --- | --- | --- | --- | --- |
 | Franz Ferdinand | Take Me Out | | [YouTube](https://www.youtube.com/watch?v=0XjAZtWVxGs) | [UG](https://tabs.ultimate-guitar.com/tab/franz-ferdinand/take-me-out-official-1911499)
+| Pink Floyd | Echoes | Meddle | [YouTube](https://www.youtube.com/watch?v=KBca3xf-j3o) | [UG](https://tabs.ultimate-guitar.com/tab/pink-floyd/echoes-guitar-pro-1079875)
 | Pink Floyd | Breathe | The Dark Side of the Moon | [YouTube](https://www.youtube.com/watch?v=HWgjalgCKfc) | [UG](https://tabs.ultimate-guitar.com/tab/pink-floyd/breathe-official-2157761)
 | Pink Floyd | Money | The Dark Side of the Moon | [YouTube](https://www.youtube.com/watch?v=cpbbuaIA3Ds) | [UG](https://tabs.ultimate-guitar.com/tab/pink-floyd/money-official-2449673)
 | Pink Floyd | The great gig in the sky | The Dark Side of the Moon | [YouTube](https://www.youtube.com/watch?v=T13se_2A7c8) | [UG](https://tabs.ultimate-guitar.com/tab/pink-floyd/the-great-gig-in-the-sky-official-2547183)
@@ -23,11 +24,7 @@
 | Pink Floyd | Mother | The Wall | [YouTube](https://www.youtube.com/watch?v=2oUqgfroTa8) | [UG](https://tabs.ultimate-guitar.com/tab/pink-floyd/mother-official-2068765)
 | Pink Floyd | Run like hell | The Wall | [YouTube](https://www.youtube.com/watch?v=5yW7s0IUwv4) | [UG](https://tabs.ultimate-guitar.com/tab/pink-floyd/run-like-hell-official-2114813)
 | Pink Floyd | Young lust | The Wall | [YouTube](https://www.youtube.com/watch?v=YiVPC8QHsQM) | [UG](https://tabs.ultimate-guitar.com/tab/pink-floyd/young-lust-official-2303299)
-| Pink Floyd | Echoes | Meddle | [YouTube](https://www.youtube.com/watch?v=KBca3xf-j3o) | [UG](https://tabs.ultimate-guitar.com/tab/pink-floyd/echoes-guitar-pro-1079875)
+| Pink Floyd | The final cut | The final cut | [YouTube](https://www.youtube.com/watch?v=gFDlTx33LCM) | [UG](https://tabs.ultimate-guitar.com/tab/pink-floyd/the-final-cut-guitar-pro-1940163)
+| Pink Floyd | On the turning away | A Momentary Lapse Of Reason | [YouTube](https://www.youtube.com/watch?v=y8wxvX6qM20) | [UG](https://tabs.ultimate-guitar.com/tab/pink-floyd/on-the-turning-away-official-2814824)
 | Pink Floyd | High hopes | The Division Bell | [YouTube](https://www.youtube.com/watch?v=OeIpN-yk7gY) | [UG](https://tabs.ultimate-guitar.com/tab/kodaline/high-hopes-official-2406047)
 | Pink Floyd | Marooned | The Division Bell | [YouTube](https://www.youtube.com/watch?v=-Rzi0Bkj7J8) | [UG](https://tabs.ultimate-guitar.com/tab/pink-floyd/marooned-official-2856947)
-| Pink Floyd | On the turning away | A Momentary Lapse Of Reason | [YouTube](https://www.youtube.com/watch?v=y8wxvX6qM20) | [UG](https://tabs.ultimate-guitar.com/tab/pink-floyd/on-the-turning-away-official-2814824)
-| Pink Floyd | The final cut | The final cut | [YouTube](https://www.youtube.com/watch?v=gFDlTx33LCM) | [UG](https://tabs.ultimate-guitar.com/tab/pink-floyd/the-final-cut-guitar-pro-1940163)
-
-
-
