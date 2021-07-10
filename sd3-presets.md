@@ -14,7 +14,6 @@
 9   | A-2  | Hi-Hat Bell Trigger | 57  | A2   | Cymbal 4 Crash | 105 | A6   | Cymbal 4 Bell Tip
 10  | A#-2 | _Hi-Hat Closed Pedal_ | 58  | A#2  | Cymbal 4 Mute Hit | 106 | A#6  | _Cymbal 4 Mute Hit_
 11  | B-2  | _Hi-Hat Closed Tip_ | 59  | B2   | Ride Edge | 107 | B6   | _Cymbal 5 Mute Hit_
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
 12  | C-1  | Hi-Hat Open Tip 0 | 60  | C3   | Hi-Hat Open Edge 4 | 108 | C7   | Cymbal 5 Bow Tip
 13  | C#-1 | Hi-Hat Open Tip 1 | 61  | C#3  | Hi-Hat Closed Tip | 109 | C#7  | Cymbal 5 Bell Shank
 14  | D-1  | Hi-Hat Open Tip 2 | 62  | D3   | Hi-Hat Tight Edge | 110 | D7   | _Cymbal 5 Crash_
@@ -26,8 +25,7 @@
 20  | G#-1 | Hi-Hat Shaft Trigger | 68  | G#3  | Snare Muted | 116 | G#7  | _Ride Bow Shank_
 21  | A-1  | Hi-Hat Closed Pedal | 69  | A3   | Snare Flam | 117 | A7   | _Ride Bell Tip_
 22  | A#-1 | Hi-Hat Closed Edge | 70  | A#3  | Snare Muted Accent | 118 | A#7  | Ride Mute Hit
-23  | B-1  | Hi-Hat Open Pedal | 71  | B3   | Snare Rim Only | 119 | B7   | Hi-Hat Closed Bell 
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+23  | B-1  | Hi-Hat Open Pedal | 71  | B3   | Snare Rim Only | 119 | B7   | Hi-Hat Closed Bell
 24  | C0   | Hi-Hat Open Edge 1 | 72  | C4   | Floortom 2 Rim Only | 120 | C8   | Hi-Hat Open Bell 0
 25  | C#0  | Hi-Hat Open Edge 2 | 73  | C#4  | Floortom 2 Rimshot | 121 | C#8  | Hi-Hat Open Bell 1
 26  | D0   | Hi-Hat Open Edge 3 | 74  | D4   | Floortom 1 Rim Only | 122 | D8   | Hi-Hat Open Bell 2
@@ -40,7 +38,6 @@
 33  | A0   | Snare Edge | 81  | A4   | Racktom 1 Rim Only
 34  | A#0  | _Kick Open_ | 82  | A#4  | Racktom 1 Rimshot
 35  | B0   | Kick Hit | 83  | B4   | Cymbal 1 Mute Hit
-| --- | --- | --- | --- | --- | --- |
 36  | C1   | Kick Open | 84  | C5   | Cymbal 1 Bow Tip
 37  | C#1  | Snare Sidestick | 85  | C#5  | Cymbal 1 Bell Shank
 38  | D1   | Snare Center | 86  | D5   | Cymbal 1 Crash
