@@ -7,3 +7,4 @@
 | Bullet For My Valentine | Hears Burst into Fire | [YouTube](https://www.youtube.com/watch?v=CGK0lYJ4B9w) | [UG](https://tabs.ultimate-guitar.com/tab/bullet-for-my-valentine/hearts-burst-into-fire-official-1974173)
 | Killswith Engage | End Of Heartache | [YouTube](https://www.youtube.com/watch?v=RjPmST6pzPI) | [UG](https://tabs.ultimate-guitar.com/tab/killswitch-engage/the-end-of-heartache-official-2185009)
 | Killswitch Engage | My Curse | [YouTube](https://www.youtube.com/watch?v=Gb_jau97dcM) | [UG](https://tabs.ultimate-guitar.com/tab/killswitch-engage/my-curse-official-1916619)
+| As I Lay Daying | The Darkest Nights | [YouTube](https://www.youtube.com/watch?v=rrzCxWcPiaU&list=RDrrzCxWcPiaU) | [UG](https://tabs.ultimate-guitar.com/tab/as-i-lay-dying/the-darkest-nights-official-2216105)
