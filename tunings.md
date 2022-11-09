@@ -1,12 +1,12 @@
-# Template
+# T  E  mplat  E  
 
 | string | n  | n  | n | n  | n  | n  | n  | n | n  | n  | n  | n  | n  |
 |--------|----|----|---|----|----|----|----|---|----|----|----|----|----|
-| 8      | E  | D# | D | C# | C  | B  | A# | A | G# | G  | F# | F  | E  |
-| 7      | B  | A# | A | G# | G  | F# | F  | E | D# | D  | C# | C  | B  |
-| 6      | G  | F# | F | E  | D# | D  | C# | C | B  | A# | A  | G# | G  |
-| 5      | D  | C# | C | B  | A# | A  | G# | G | F# | F  | E  | D# | D  |
-| 4      | A  | G# | G | F# | F  | E  | D# | D | C# | C  | B  | A# | A  |
-| 3      | E  | D# | D | C# | C  | B  | A# | A | G# | G  | F# | F  | E  |
-| 2      | B  | A# | A | G# | G  | F# | F  | E | D# | D  | C# | C  | B  |
-| 1      | F# | F  | E | D# | D  | C# | C  | B | A# | A  | G# | G  | F# |
+| 1      |   E    |   F    |   F#   |   G    |   G#   |   A    |   A#   |   B    |   C    |   C#   |   D    |   D#   |   E    |
+| 3      |   B    |   C    |   C#   |   D    |   D#   |   E    |   F    |   F#   |   G    |   G#   |   A    |   A#   |   B    |
+| 3      |   G    |   G#   |   A    |   A#   |   B    |   C    |   C#   |   D    |   D#   |   E    |   F    |   F#   |   G    |
+| 4      |   D    |   D#   |   E    |   F    |   F#   |   G    |   G#   |   A    |   A#   |   B    |   C    |   C#   |   D    |
+| 5      |   A    |   A#   |   B    |   C    |   C#   |   D    |   D#   |   E    |   F    |   F#   |   G    |   G#   |   A    |
+| 6      |   E    |   F    |   F#   |   G    |   G#   |   A    |   A#   |   B    |   C    |   C#   |   D    |   D#   |   E    |
+| 7      |   B    |   C    |   C#   |   D    |   D#   |   E    |   F    |   F#   |   G    |   G#   |   A    |   A#   |   B    |
+| 8      |   F#   |   G    |   G#   |   A    |   A#   |   B    |   C    |   C#   |   D    |   D#   |   E    |   F    |   F#   |
