@@ -8,3 +8,4 @@
 | Killswith Engage | End Of Heartache | [YouTube](https://www.youtube.com/watch?v=RjPmST6pzPI) | [UG](https://tabs.ultimate-guitar.com/tab/killswitch-engage/the-end-of-heartache-official-2185009)
 | Killswitch Engage | My Curse | [YouTube](https://www.youtube.com/watch?v=Gb_jau97dcM) | [UG](https://tabs.ultimate-guitar.com/tab/killswitch-engage/my-curse-official-1916619)
 | As I Lay Daying | The Darkest Nights | [YouTube](https://www.youtube.com/watch?v=rrzCxWcPiaU&list=RDrrzCxWcPiaU) | [UG](https://tabs.ultimate-guitar.com/tab/as-i-lay-dying/the-darkest-nights-official-2216105)
+| Bring Me The Horizon | And The Snakes Start To String | - | [UG](https://tabs.ultimate-guitar.com/tab/bring-me-the-horizon/and-the-snakes-start-to-sing-guitar-pro-1869859ß)
