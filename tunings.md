@@ -1,12 +1,10 @@
-# T  E  mplat  E  
+# Template
 
-| string | n  | n  | n | n  | n  | n  | n  | n | n  | n  | n  | n  | n  |
+| string | n | n | n | n | n | n | n | n | n | n | n | n | n |
 |--------|----|----|---|----|----|----|----|---|----|----|----|----|----|
-| 1      |   E    |   F    |   F#   |   G    |   G#   |   A    |   A#   |   B    |   C    |   C#   |   D    |   D#   |   E    |
-| 3      |   B    |   C    |   C#   |   D    |   D#   |   E    |   F    |   F#   |   G    |   G#   |   A    |   A#   |   B    |
-| 3      |   G    |   G#   |   A    |   A#   |   B    |   C    |   C#   |   D    |   D#   |   E    |   F    |   F#   |   G    |
-| 4      |   D    |   D#   |   E    |   F    |   F#   |   G    |   G#   |   A    |   A#   |   B    |   C    |   C#   |   D    |
-| 5      |   A    |   A#   |   B    |   C    |   C#   |   D    |   D#   |   E    |   F    |   F#   |   G    |   G#   |   A    |
-| 6      |   E    |   F    |   F#   |   G    |   G#   |   A    |   A#   |   B    |   C    |   C#   |   D    |   D#   |   E    |
-| 7      |   B    |   C    |   C#   |   D    |   D#   |   E    |   F    |   F#   |   G    |   G#   |   A    |   A#   |   B    |
-| 8      |   F#   |   G    |   G#   |   A    |   A#   |   B    |   C    |   C#   |   D    |   D#   |   E    |   F    |   F#   |
+| 6      |   E    |   D#   |   D    |   C#   |   C    |   B    |   A#   |   A   |   G#   |   G    |   F#   |   F    |   E    |
+| 5      |   B    |   A#   |   A    |   G#   |   G    |   F#   |   F    |   E   |   D#   |   D    |   C#   |   C    |   B    |
+| 4      |   G    |   F#   |   F    |   E    |   D#   |   D    |   C#   |   C   |   B    |   A#   |   A    |   G#   |   G    |
+| 3      |   D    |   C#   |   C    |   B    |   A#   |   A    |   G#   |   G   |   F#   |   F    |   E    |   D#   |   D    |
+| 2      |   A    |   G#   |   G    |   F#   |   F    |   E    |   D#   |   D   |   C#   |   C    |   B    |   A#   |   A    |
+| 1      |   E    |   D#   |   D    |   C#   |   C    |   B    |   A#   |   A   |   G#   |   G    |   F#   |   F    |   E    |
