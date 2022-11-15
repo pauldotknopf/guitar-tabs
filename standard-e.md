@@ -28,3 +28,6 @@
 | Pink Floyd | On the turning away | A Momentary Lapse Of Reason | [YouTube](https://www.youtube.com/watch?v=y8wxvX6qM20) | [UG](https://tabs.ultimate-guitar.com/tab/pink-floyd/on-the-turning-away-official-2814824)
 | Pink Floyd | High hopes | The Division Bell | [YouTube](https://www.youtube.com/watch?v=OeIpN-yk7gY) | [UG](https://tabs.ultimate-guitar.com/tab/kodaline/high-hopes-official-2406047)
 | Pink Floyd | Marooned | The Division Bell | [YouTube](https://www.youtube.com/watch?v=-Rzi0Bkj7J8) | [UG](https://tabs.ultimate-guitar.com/tab/pink-floyd/marooned-official-2856947)
+| Bring Me The Horizon | maybe | - | [UG](https://tabs.ultimate-guitar.com/tab/machine-gun-kelly/maybe-official-4116334)
+| Bring Me The Horizon | 1x1 | - | [UG](https://tabs.ultimate-guitar.com/tab/bring-me-the-horizon/1x1-official-3428732)
+| Bring Me The Horizon | Can You Feel My Heart | - | [UG](https://tabs.ultimate-guitar.com/tab/bring-me-the-horizon/can-you-feel-my-heart-official-1948123)

@@ -15,3 +15,5 @@ Drop A#
 | --- | --- | --- | --- |
 | Wage War | Gravity | [YouTube](https://www.youtube.com/watch?v=ygwrATMHYgg) | [UG](https://tabs.ultimate-guitar.com/tab/wage-war/gravity-official-2411603)
 | Wage War | Alive | [YouTube](https://www.youtube.com/watch?v=CGqP5LDa6GU) | [UG](https://tabs.ultimate-guitar.com/tab/wage-war/alive-official-3950588)
+| Bring Me The Horizon | Throne | - | [UG](https://tabs.ultimate-guitar.com/tab/bring-me-the-horizon/throne-official-1916283)
+| Bring Me The Horizon | Wonderful Life | - | [UG](https://tabs.ultimate-guitar.com/tab/bring-me-the-horizon/wonderful-life-official-2501037)
