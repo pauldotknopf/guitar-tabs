@@ -12,8 +12,12 @@
 | 2      | E  | **D#** | D | C# | C  | B  | A# | A | G# | G  | F# | F  | E  |
 | 1      | B  | A# | A | **G#** | G  | F# | F  | E | D# | D  | C# | C  | B  |
 
+
+
 # Songs
 
 | Band | Song | Backing Track | Tabs
 | --- | --- | --- | --- |
 | Dayseeker | Sleeptalk | [YouTube](https://www.youtube.com/watch?v=3xcoQlTI49o) | [UG](https://tabs.ultimate-guitar.com/tab/dayseeker/sleeptalk-official-3921692)
+
+https://www.youtube.com/watch?v=9HcPFrvKhCs
